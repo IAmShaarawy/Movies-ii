@@ -1,4 +1,4 @@
-# Movies II
+Movies II
 ===========
 Revamp [Movies][1] Project to use latest Android Development Stack
 
