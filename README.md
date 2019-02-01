@@ -1,6 +1,6 @@
 Movies II
 ===========
-Revamp [Movies][1] Project to use latest Android Development Stack
+Revamp [Movies][1] project to use new Android development stack
 
 License
 =======
