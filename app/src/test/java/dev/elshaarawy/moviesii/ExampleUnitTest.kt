@@ -1,4 +1,4 @@
-package me.elshaarawy.moviesii
+package dev.elshaarawy.moviesii
 
 import org.junit.Test
 

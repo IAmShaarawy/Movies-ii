@@ -1,4 +1,4 @@
-package me.elshaarawy.moviesii
+package dev.elshaarawy.moviesii
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

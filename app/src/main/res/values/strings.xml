@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Movies</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Movies</string>
+    <string name="title_dashboard">Like/Dislike</string>
+    <string name="title_notifications">Info</string>
 </resources>
